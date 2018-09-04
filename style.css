@@ -79,6 +79,9 @@ h3{
     background-size: cover;
     width: 250px;
     height: 200px;
+    text-align: right;
+    font-weight: bold;
+    color: #2c5fa8;
 }
 .machine-design-2{
     margin: auto;
@@ -87,6 +90,9 @@ h3{
     background-size: cover;
     width: 250px;
     height: 200px;
+    text-align: right;
+    font-weight: bold;
+    color: #2c5fa8;
 }
 .watch{
     margin: auto;
@@ -95,6 +101,9 @@ h3{
     background-size: cover;
     width: 250px;
     height: 200px;
+    text-align: right;
+    font-weight: bold;
+    color: #2c5fa8;
 }
 footer{
     border: solid 10px white;
